@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0",
+    "styled-components": "^5.3.6"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "keywords": [],
+  "name": "jsx-button",
+  "description": "## Avatars",
+  "version": "0.0.4",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Laynie",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layniecast/Front-End-Intermediate-HW3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/layniecast/Front-End-Intermediate-HW3/issues"
+  },
+  "homepage": "https://github.com/layniecast/Front-End-Intermediate-HW3#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
